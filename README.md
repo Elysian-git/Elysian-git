@@ -1,55 +1,78 @@
-<h1 align="center">Hey 🎐I'm Memoona!</h1>
-<h1 align="center"> A ComSci major and future Software Engineer!💫<h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm82ZG9ja245eTdjaDJybzBsN3RjMGkwMWgwZHcxZjZwbjJheTIzYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sNUWF7fAUP2q4/giphy.gif" width="300"/>
+
+# ✨ Hi there! 💜 I'm Memoona
+
+![Banner](assets/bannerProfile.gif)
+
+### 🚀 Software Engineer
+
 </div>
 
-###
+## 🛠 Technical Skills
+<table align="center">
+<tr>
+<td valign="top" width="25%">
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=cpp" height="60"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="60"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=js" height="60"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="60"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=react" height="60"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60"/>
-  <img src="https://skillicons.dev/icons?i=html" height="60"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=css" height="60"/>
-  <img width="12"/>
-</div>
+<b>💻 Languages</b><br><br>
+<img src="https://img.shields.io/badge/Python-8B5FBF?style=flat&logo=python&logoColor=white"><br>
+<img src="https://img.shields.io/badge/JavaScript-7A4BA3?style=flat&logo=javascript&logoColor=white"><br>
+<img src="https://img.shields.io/badge/TypeScript-6A3787?style=flat&logo=typescript&logoColor=white"><br>
+<img src="https://img.shields.io/badge/C++-5B2C83?style=flat&logo=c%2B%2B&logoColor=white"><br>
 
+</td>
+<td valign="top" width="25%">
 
-###
+<b>🗄️ Database</b><br><br>
+<img src="https://img.shields.io/badge/MySQL-8B5FBF?style=flat&logo=mysql&logoColor=white"><br>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/memoonasaleem/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="mailto:memoona.se@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://memoonasaleem.vercel.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&color=000000&logoColor=white&style=for-the-badge" height="25" />
-  </a>
+</td>
+<td valign="top" width="25%">
 
-  
-</div>
+<b>⚡ Frameworks</b><br><br>
+<img src="https://img.shields.io/badge/React-7A4BA3?style=flat&logo=react&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Next.js-6A3787?style=flat&logo=next.js&logoColor=white"><br>
 
+ </td>
+<td valign="top" width="25%">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+<b>🛠 Tools</b><br><br>
+<img src="https://img.shields.io/badge/HTML5-8B5FBF?style=flat&logo=html5&logoColor=white"><br>
+<img src="https://img.shields.io/badge/CSS3-7A4BA3?style=flat&logo=css3&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Git-6A3787?style=flat&logo=git&logoColor=white"><br>
+<img src="https://img.shields.io/badge/GitHub-5B2C83?style=flat&logo=github&logoColor=white"><br>
+<img src="https://img.shields.io/badge/VS%20Code-4A1F6F?style=flat&logo=visual-studio-code&logoColor=white"><br>
 
-###
+</td>
+</tr>
+</table>
+
+---
+
+## 🔥 Current Focus
+
+- 🎯 **Strengthening core CS & OOP concepts**
+- ⚛️ **Building modern web apps** with React & Next.js
+- 🧠 **Improving problem-solving** with Python & C++
+
+---
+
+## 🎯 Interests & Hobbies
+
+- 🎐 **Anime**
+- 🎵 **Music** 
+- 📚 **Learning New Stuff** 
+-  🖌**Sketching whenever I remember I can.** 
+
+---
+
+## 📫 Connect With Me
+
+<a href="https://www.linkedin.com/in/memoonasaleem/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-8B5FBF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:memoona.se@gmail.com">
+  <img src="https://img.shields.io/badge/Email-7A4BA3?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://memoonasaleem.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-6A3787?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
