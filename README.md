@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Hi there! 💜 I'm Memoona </br></br> 
+# ✨ Hi there! 💙 I'm Memoona </br></br> 
 
 ![Banner](assets/bannerProfile.gif)
 
